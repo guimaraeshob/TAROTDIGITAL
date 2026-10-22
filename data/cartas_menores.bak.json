@@ -1,0 +1,310 @@
+[
+  {
+    "id": 0,
+    "nome": "O Louco",
+    "numero": 0,
+    "palavras_chave": [
+      "começos",
+      "espontaneidade e liberdade"
+    ],
+    "significados": {
+      "passado": "No passado, O Louco convida a reconhecer experiências ligadas a começos, espontaneidade e liberdade. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Louco simboliza começos, espontaneidade e liberdade. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Louco sugere refletir sobre começos, espontaneidade e liberdade. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 1,
+    "nome": "O Mago",
+    "numero": 1,
+    "palavras_chave": [
+      "iniciativa",
+      "habilidade e criatividade"
+    ],
+    "significados": {
+      "passado": "No passado, O Mago convida a reconhecer experiências ligadas a iniciativa, habilidade e criatividade. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Mago simboliza iniciativa, habilidade e criatividade. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Mago sugere refletir sobre iniciativa, habilidade e criatividade. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 2,
+    "nome": "A Sacerdotisa",
+    "numero": 2,
+    "palavras_chave": [
+      "intuição",
+      "silêncio e mistério"
+    ],
+    "significados": {
+      "passado": "No passado, A Sacerdotisa convida a reconhecer experiências ligadas a intuição, silêncio e mistério. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Sacerdotisa simboliza intuição, silêncio e mistério. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Sacerdotisa sugere refletir sobre intuição, silêncio e mistério. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 3,
+    "nome": "A Imperatriz",
+    "numero": 3,
+    "palavras_chave": [
+      "cuidado",
+      "abundância e criação"
+    ],
+    "significados": {
+      "passado": "No passado, A Imperatriz convida a reconhecer experiências ligadas a cuidado, abundância e criação. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Imperatriz simboliza cuidado, abundância e criação. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Imperatriz sugere refletir sobre cuidado, abundância e criação. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 4,
+    "nome": "O Imperador",
+    "numero": 4,
+    "palavras_chave": [
+      "estrutura",
+      "responsabilidade e autoridade"
+    ],
+    "significados": {
+      "passado": "No passado, O Imperador convida a reconhecer experiências ligadas a estrutura, responsabilidade e autoridade. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Imperador simboliza estrutura, responsabilidade e autoridade. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Imperador sugere refletir sobre estrutura, responsabilidade e autoridade. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 5,
+    "nome": "O Hierofante",
+    "numero": 5,
+    "palavras_chave": [
+      "tradição",
+      "aprendizado e valores"
+    ],
+    "significados": {
+      "passado": "No passado, O Hierofante convida a reconhecer experiências ligadas a tradição, aprendizado e valores. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Hierofante simboliza tradição, aprendizado e valores. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Hierofante sugere refletir sobre tradição, aprendizado e valores. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 6,
+    "nome": "Os Enamorados",
+    "numero": 6,
+    "palavras_chave": [
+      "escolhas",
+      "vínculos e alinhamento"
+    ],
+    "significados": {
+      "passado": "No passado, Os Enamorados convida a reconhecer experiências ligadas a escolhas, vínculos e alinhamento. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Os Enamorados simboliza escolhas, vínculos e alinhamento. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Os Enamorados sugere refletir sobre escolhas, vínculos e alinhamento. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 7,
+    "nome": "O Carro",
+    "numero": 7,
+    "palavras_chave": [
+      "determinação",
+      "direção e conquista"
+    ],
+    "significados": {
+      "passado": "No passado, O Carro convida a reconhecer experiências ligadas a determinação, direção e conquista. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Carro simboliza determinação, direção e conquista. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Carro sugere refletir sobre determinação, direção e conquista. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 8,
+    "nome": "A Força",
+    "numero": 8,
+    "palavras_chave": [
+      "coragem",
+      "paciência e autocontrole"
+    ],
+    "significados": {
+      "passado": "No passado, A Força convida a reconhecer experiências ligadas a coragem, paciência e autocontrole. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Força simboliza coragem, paciência e autocontrole. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Força sugere refletir sobre coragem, paciência e autocontrole. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 9,
+    "nome": "O Eremita",
+    "numero": 9,
+    "palavras_chave": [
+      "introspecção",
+      "prudência e sabedoria"
+    ],
+    "significados": {
+      "passado": "No passado, O Eremita convida a reconhecer experiências ligadas a introspecção, prudência e sabedoria. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Eremita simboliza introspecção, prudência e sabedoria. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Eremita sugere refletir sobre introspecção, prudência e sabedoria. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 10,
+    "nome": "A Roda da Fortuna",
+    "numero": 10,
+    "palavras_chave": [
+      "ciclos",
+      "mudanças e oportunidades"
+    ],
+    "significados": {
+      "passado": "No passado, A Roda da Fortuna convida a reconhecer experiências ligadas a ciclos, mudanças e oportunidades. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Roda da Fortuna simboliza ciclos, mudanças e oportunidades. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Roda da Fortuna sugere refletir sobre ciclos, mudanças e oportunidades. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 11,
+    "nome": "A Justiça",
+    "numero": 11,
+    "palavras_chave": [
+      "equilíbrio",
+      "responsabilidade e consequências"
+    ],
+    "significados": {
+      "passado": "No passado, A Justiça convida a reconhecer experiências ligadas a equilíbrio, responsabilidade e consequências. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Justiça simboliza equilíbrio, responsabilidade e consequências. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Justiça sugere refletir sobre equilíbrio, responsabilidade e consequências. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 12,
+    "nome": "O Enforcado",
+    "numero": 12,
+    "palavras_chave": [
+      "pausa",
+      "entrega e nova perspectiva"
+    ],
+    "significados": {
+      "passado": "No passado, O Enforcado convida a reconhecer experiências ligadas a pausa, entrega e nova perspectiva. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Enforcado simboliza pausa, entrega e nova perspectiva. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Enforcado sugere refletir sobre pausa, entrega e nova perspectiva. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 13,
+    "nome": "A Morte",
+    "numero": 13,
+    "palavras_chave": [
+      "encerramento",
+      "transformação e renovação"
+    ],
+    "significados": {
+      "passado": "No passado, A Morte convida a reconhecer experiências ligadas a encerramento, transformação e renovação. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Morte simboliza encerramento, transformação e renovação. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Morte sugere refletir sobre encerramento, transformação e renovação. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 14,
+    "nome": "A Temperança",
+    "numero": 14,
+    "palavras_chave": [
+      "moderação",
+      "harmonia e integração"
+    ],
+    "significados": {
+      "passado": "No passado, A Temperança convida a reconhecer experiências ligadas a moderação, harmonia e integração. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Temperança simboliza moderação, harmonia e integração. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Temperança sugere refletir sobre moderação, harmonia e integração. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 15,
+    "nome": "O Diabo",
+    "numero": 15,
+    "palavras_chave": [
+      "apegos",
+      "tentações e padrões limitantes"
+    ],
+    "significados": {
+      "passado": "No passado, O Diabo convida a reconhecer experiências ligadas a apegos, tentações e padrões limitantes. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Diabo simboliza apegos, tentações e padrões limitantes. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Diabo sugere refletir sobre apegos, tentações e padrões limitantes. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 16,
+    "nome": "A Torre",
+    "numero": 16,
+    "palavras_chave": [
+      "rupturas",
+      "revelações e reconstrução"
+    ],
+    "significados": {
+      "passado": "No passado, A Torre convida a reconhecer experiências ligadas a rupturas, revelações e reconstrução. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Torre simboliza rupturas, revelações e reconstrução. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Torre sugere refletir sobre rupturas, revelações e reconstrução. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 17,
+    "nome": "A Estrela",
+    "numero": 17,
+    "palavras_chave": [
+      "esperança",
+      "inspiração e recuperação"
+    ],
+    "significados": {
+      "passado": "No passado, A Estrela convida a reconhecer experiências ligadas a esperança, inspiração e recuperação. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Estrela simboliza esperança, inspiração e recuperação. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Estrela sugere refletir sobre esperança, inspiração e recuperação. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 18,
+    "nome": "A Lua",
+    "numero": 18,
+    "palavras_chave": [
+      "incerteza",
+      "imaginação e emoções profundas"
+    ],
+    "significados": {
+      "passado": "No passado, A Lua convida a reconhecer experiências ligadas a incerteza, imaginação e emoções profundas. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Lua simboliza incerteza, imaginação e emoções profundas. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Lua sugere refletir sobre incerteza, imaginação e emoções profundas. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 19,
+    "nome": "O Sol",
+    "numero": 19,
+    "palavras_chave": [
+      "clareza",
+      "vitalidade e alegria"
+    ],
+    "significados": {
+      "passado": "No passado, O Sol convida a reconhecer experiências ligadas a clareza, vitalidade e alegria. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Sol simboliza clareza, vitalidade e alegria. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Sol sugere refletir sobre clareza, vitalidade e alegria. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 20,
+    "nome": "O Julgamento",
+    "numero": 20,
+    "palavras_chave": [
+      "despertar",
+      "revisão e recomeço"
+    ],
+    "significados": {
+      "passado": "No passado, O Julgamento convida a reconhecer experiências ligadas a despertar, revisão e recomeço. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Julgamento simboliza despertar, revisão e recomeço. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Julgamento sugere refletir sobre despertar, revisão e recomeço. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 21,
+    "nome": "O Mundo",
+    "numero": 21,
+    "palavras_chave": [
+      "conclusão",
+      "integração e realização"
+    ],
+    "significados": {
+      "passado": "No passado, O Mundo convida a reconhecer experiências ligadas a conclusão, integração e realização. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Mundo simboliza conclusão, integração e realização. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Mundo sugere refletir sobre conclusão, integração e realização. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  }
+]

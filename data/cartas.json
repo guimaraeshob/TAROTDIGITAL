@@ -1,0 +1,1150 @@
+[
+  {
+    "id": 0,
+    "nome": "O Louco",
+    "numero": 0,
+    "palavras_chave": [
+      "começos",
+      "espontaneidade e liberdade"
+    ],
+    "significados": {
+      "passado": "No passado, O Louco convida a reconhecer experiências ligadas a começos, espontaneidade e liberdade. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Louco simboliza começos, espontaneidade e liberdade. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Louco sugere refletir sobre começos, espontaneidade e liberdade. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 1,
+    "nome": "O Mago",
+    "numero": 1,
+    "palavras_chave": [
+      "iniciativa",
+      "habilidade e criatividade"
+    ],
+    "significados": {
+      "passado": "No passado, O Mago convida a reconhecer experiências ligadas a iniciativa, habilidade e criatividade. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Mago simboliza iniciativa, habilidade e criatividade. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Mago sugere refletir sobre iniciativa, habilidade e criatividade. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 2,
+    "nome": "A Sacerdotisa",
+    "numero": 2,
+    "palavras_chave": [
+      "intuição",
+      "silêncio e mistério"
+    ],
+    "significados": {
+      "passado": "No passado, A Sacerdotisa convida a reconhecer experiências ligadas a intuição, silêncio e mistério. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Sacerdotisa simboliza intuição, silêncio e mistério. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Sacerdotisa sugere refletir sobre intuição, silêncio e mistério. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 3,
+    "nome": "A Imperatriz",
+    "numero": 3,
+    "palavras_chave": [
+      "cuidado",
+      "abundância e criação"
+    ],
+    "significados": {
+      "passado": "No passado, A Imperatriz convida a reconhecer experiências ligadas a cuidado, abundância e criação. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Imperatriz simboliza cuidado, abundância e criação. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Imperatriz sugere refletir sobre cuidado, abundância e criação. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 4,
+    "nome": "O Imperador",
+    "numero": 4,
+    "palavras_chave": [
+      "estrutura",
+      "responsabilidade e autoridade"
+    ],
+    "significados": {
+      "passado": "No passado, O Imperador convida a reconhecer experiências ligadas a estrutura, responsabilidade e autoridade. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Imperador simboliza estrutura, responsabilidade e autoridade. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Imperador sugere refletir sobre estrutura, responsabilidade e autoridade. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 5,
+    "nome": "O Hierofante",
+    "numero": 5,
+    "palavras_chave": [
+      "tradição",
+      "aprendizado e valores"
+    ],
+    "significados": {
+      "passado": "No passado, O Hierofante convida a reconhecer experiências ligadas a tradição, aprendizado e valores. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Hierofante simboliza tradição, aprendizado e valores. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Hierofante sugere refletir sobre tradição, aprendizado e valores. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 6,
+    "nome": "Os Enamorados",
+    "numero": 6,
+    "palavras_chave": [
+      "escolhas",
+      "vínculos e alinhamento"
+    ],
+    "significados": {
+      "passado": "No passado, Os Enamorados convida a reconhecer experiências ligadas a escolhas, vínculos e alinhamento. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Os Enamorados simboliza escolhas, vínculos e alinhamento. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Os Enamorados sugere refletir sobre escolhas, vínculos e alinhamento. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 7,
+    "nome": "O Carro",
+    "numero": 7,
+    "palavras_chave": [
+      "determinação",
+      "direção e conquista"
+    ],
+    "significados": {
+      "passado": "No passado, O Carro convida a reconhecer experiências ligadas a determinação, direção e conquista. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Carro simboliza determinação, direção e conquista. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Carro sugere refletir sobre determinação, direção e conquista. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 8,
+    "nome": "A Força",
+    "numero": 8,
+    "palavras_chave": [
+      "coragem",
+      "paciência e autocontrole"
+    ],
+    "significados": {
+      "passado": "No passado, A Força convida a reconhecer experiências ligadas a coragem, paciência e autocontrole. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Força simboliza coragem, paciência e autocontrole. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Força sugere refletir sobre coragem, paciência e autocontrole. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 9,
+    "nome": "O Eremita",
+    "numero": 9,
+    "palavras_chave": [
+      "introspecção",
+      "prudência e sabedoria"
+    ],
+    "significados": {
+      "passado": "No passado, O Eremita convida a reconhecer experiências ligadas a introspecção, prudência e sabedoria. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Eremita simboliza introspecção, prudência e sabedoria. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Eremita sugere refletir sobre introspecção, prudência e sabedoria. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 10,
+    "nome": "A Roda da Fortuna",
+    "numero": 10,
+    "palavras_chave": [
+      "ciclos",
+      "mudanças e oportunidades"
+    ],
+    "significados": {
+      "passado": "No passado, A Roda da Fortuna convida a reconhecer experiências ligadas a ciclos, mudanças e oportunidades. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Roda da Fortuna simboliza ciclos, mudanças e oportunidades. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Roda da Fortuna sugere refletir sobre ciclos, mudanças e oportunidades. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 11,
+    "nome": "A Justiça",
+    "numero": 11,
+    "palavras_chave": [
+      "equilíbrio",
+      "responsabilidade e consequências"
+    ],
+    "significados": {
+      "passado": "No passado, A Justiça convida a reconhecer experiências ligadas a equilíbrio, responsabilidade e consequências. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Justiça simboliza equilíbrio, responsabilidade e consequências. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Justiça sugere refletir sobre equilíbrio, responsabilidade e consequências. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 12,
+    "nome": "O Enforcado",
+    "numero": 12,
+    "palavras_chave": [
+      "pausa",
+      "entrega e nova perspectiva"
+    ],
+    "significados": {
+      "passado": "No passado, O Enforcado convida a reconhecer experiências ligadas a pausa, entrega e nova perspectiva. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Enforcado simboliza pausa, entrega e nova perspectiva. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Enforcado sugere refletir sobre pausa, entrega e nova perspectiva. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 13,
+    "nome": "A Morte",
+    "numero": 13,
+    "palavras_chave": [
+      "encerramento",
+      "transformação e renovação"
+    ],
+    "significados": {
+      "passado": "No passado, A Morte convida a reconhecer experiências ligadas a encerramento, transformação e renovação. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Morte simboliza encerramento, transformação e renovação. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Morte sugere refletir sobre encerramento, transformação e renovação. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 14,
+    "nome": "A Temperança",
+    "numero": 14,
+    "palavras_chave": [
+      "moderação",
+      "harmonia e integração"
+    ],
+    "significados": {
+      "passado": "No passado, A Temperança convida a reconhecer experiências ligadas a moderação, harmonia e integração. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Temperança simboliza moderação, harmonia e integração. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Temperança sugere refletir sobre moderação, harmonia e integração. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 15,
+    "nome": "O Diabo",
+    "numero": 15,
+    "palavras_chave": [
+      "apegos",
+      "tentações e padrões limitantes"
+    ],
+    "significados": {
+      "passado": "No passado, O Diabo convida a reconhecer experiências ligadas a apegos, tentações e padrões limitantes. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Diabo simboliza apegos, tentações e padrões limitantes. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Diabo sugere refletir sobre apegos, tentações e padrões limitantes. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 16,
+    "nome": "A Torre",
+    "numero": 16,
+    "palavras_chave": [
+      "rupturas",
+      "revelações e reconstrução"
+    ],
+    "significados": {
+      "passado": "No passado, A Torre convida a reconhecer experiências ligadas a rupturas, revelações e reconstrução. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Torre simboliza rupturas, revelações e reconstrução. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Torre sugere refletir sobre rupturas, revelações e reconstrução. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 17,
+    "nome": "A Estrela",
+    "numero": 17,
+    "palavras_chave": [
+      "esperança",
+      "inspiração e recuperação"
+    ],
+    "significados": {
+      "passado": "No passado, A Estrela convida a reconhecer experiências ligadas a esperança, inspiração e recuperação. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Estrela simboliza esperança, inspiração e recuperação. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Estrela sugere refletir sobre esperança, inspiração e recuperação. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 18,
+    "nome": "A Lua",
+    "numero": 18,
+    "palavras_chave": [
+      "incerteza",
+      "imaginação e emoções profundas"
+    ],
+    "significados": {
+      "passado": "No passado, A Lua convida a reconhecer experiências ligadas a incerteza, imaginação e emoções profundas. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, A Lua simboliza incerteza, imaginação e emoções profundas. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, A Lua sugere refletir sobre incerteza, imaginação e emoções profundas. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 19,
+    "nome": "O Sol",
+    "numero": 19,
+    "palavras_chave": [
+      "clareza",
+      "vitalidade e alegria"
+    ],
+    "significados": {
+      "passado": "No passado, O Sol convida a reconhecer experiências ligadas a clareza, vitalidade e alegria. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Sol simboliza clareza, vitalidade e alegria. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Sol sugere refletir sobre clareza, vitalidade e alegria. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 20,
+    "nome": "O Julgamento",
+    "numero": 20,
+    "palavras_chave": [
+      "despertar",
+      "revisão e recomeço"
+    ],
+    "significados": {
+      "passado": "No passado, O Julgamento convida a reconhecer experiências ligadas a despertar, revisão e recomeço. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Julgamento simboliza despertar, revisão e recomeço. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Julgamento sugere refletir sobre despertar, revisão e recomeço. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 21,
+    "nome": "O Mundo",
+    "numero": 21,
+    "palavras_chave": [
+      "conclusão",
+      "integração e realização"
+    ],
+    "significados": {
+      "passado": "No passado, O Mundo convida a reconhecer experiências ligadas a conclusão, integração e realização. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, O Mundo simboliza conclusão, integração e realização. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, O Mundo sugere refletir sobre conclusão, integração e realização. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 22,
+    "nome": "As de Paus",
+    "numero": 1,
+    "naipe": "Paus",
+    "palavras_chave": [
+      "faíscas criativas",
+      "potencial e iniciativa"
+    ],
+    "significados": {
+      "passado": "No passado, As de Paus convida a reconhecer experiências ligadas a faíscas criativas e potencial e iniciativa. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, As de Paus simboliza faíscas criativas e potencial e iniciativa. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, As de Paus sugere refletir sobre faíscas criativas e potencial e iniciativa. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 23,
+    "nome": "Dois de Paus",
+    "numero": 2,
+    "naipe": "Paus",
+    "palavras_chave": [
+      "planejamento do futuro",
+      "decisões entre mundos possíveis"
+    ],
+    "significados": {
+      "passado": "No passado, Dois de Paus convida a reconhecer experiências ligadas a planejamento do futuro e decisões entre mundos possíveis. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Dois de Paus simboliza planejamento do futuro e decisões entre mundos possíveis. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Dois de Paus sugere refletir sobre planejamento do futuro e decisões entre mundos possíveis. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 24,
+    "nome": "Três de Paus",
+    "numero": 3,
+    "naipe": "Paus",
+    "palavras_chave": [
+      "expansão",
+      "visão de longo prazo"
+    ],
+    "significados": {
+      "passado": "No passado, Três de Paus convida a reconhecer experiências ligadas a expansão e visão de longo prazo. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Três de Paus simboliza expansão e visão de longo prazo. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Três de Paus sugere refletir sobre expansão e visão de longo prazo. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 25,
+    "nome": "Quatro de Paus",
+    "numero": 4,
+    "naipe": "Paus",
+    "palavras_chave": [
+      "celebração e descanso merecido",
+      "fundações sólidas"
+    ],
+    "significados": {
+      "passado": "No passado, Quatro de Paus convida a reconhecer experiências ligadas a celebração e descanso merecido e fundações sólidas. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Quatro de Paus simboliza celebração e descanso merecido e fundações sólidas. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Quatro de Paus sugere refletir sobre celebração e descanso merecido e fundações sólidas. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 26,
+    "nome": "Cinco de Paus",
+    "numero": 5,
+    "naipe": "Paus",
+    "palavras_chave": [
+      "debates e diferenças",
+      "energia em conflito"
+    ],
+    "significados": {
+      "passado": "No passado, Cinco de Paus convida a reconhecer experiências ligadas a debates e diferenças e energia em conflito. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Cinco de Paus simboliza debates e diferenças e energia em conflito. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Cinco de Paus sugere refletir sobre debates e diferenças e energia em conflito. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 27,
+    "nome": "Seis de Paus",
+    "numero": 6,
+    "naipe": "Paus",
+    "palavras_chave": [
+      "vitória e reconhecimento",
+      "confiança renovada"
+    ],
+    "significados": {
+      "passado": "No passado, Seis de Paus convida a reconhecer experiências ligadas a vitória e reconhecimento e confiança renovada. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Seis de Paus simboliza vitória e reconhecimento e confiança renovada. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Seis de Paus sugere refletir sobre vitória e reconhecimento e confiança renovada. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 28,
+    "nome": "Sete de Paus",
+    "numero": 7,
+    "naipe": "Paus",
+    "palavras_chave": [
+      "defesa do que é seu",
+      "perseverança"
+    ],
+    "significados": {
+      "passado": "No passado, Sete de Paus convida a reconhecer experiências ligadas a defesa do que é seu e perseverança. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Sete de Paus simboliza defesa do que é seu e perseverança. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Sete de Paus sugere refletir sobre defesa do que é seu e perseverança. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 29,
+    "nome": "Oito de Paus",
+    "numero": 8,
+    "naipe": "Paus",
+    "palavras_chave": [
+      "movimento rápido",
+      "assuntos fluindo de uma vez"
+    ],
+    "significados": {
+      "passado": "No passado, Oito de Paus convida a reconhecer experiências ligadas a movimento rápido e assuntos fluindo de uma vez. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Oito de Paus simboliza movimento rápido e assuntos fluindo de uma vez. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Oito de Paus sugere refletir sobre movimento rápido e assuntos fluindo de uma vez. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 30,
+    "nome": "Nove de Paus",
+    "numero": 9,
+    "naipe": "Paus",
+    "palavras_chave": [
+      "resiliência",
+      "guardar as conquistas"
+    ],
+    "significados": {
+      "passado": "No passado, Nove de Paus convida a reconhecer experiências ligadas a resiliência e guardar as conquistas. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Nove de Paus simboliza resiliência e guardar as conquistas. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Nove de Paus sugere refletir sobre resiliência e guardar as conquistas. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 31,
+    "nome": "Dez de Paus",
+    "numero": 10,
+    "naipe": "Paus",
+    "palavras_chave": [
+      "sobrecarga",
+      "peso das responsabilidades"
+    ],
+    "significados": {
+      "passado": "No passado, Dez de Paus convida a reconhecer experiências ligadas a sobrecarga e peso das responsabilidades. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Dez de Paus simboliza sobrecarga e peso das responsabilidades. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Dez de Paus sugere refletir sobre sobrecarga e peso das responsabilidades. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 32,
+    "nome": "Pajem de Paus",
+    "numero": 11,
+    "naipe": "Paus",
+    "palavras_chave": [
+      "entusiasmo e boas notícias",
+      "exploração"
+    ],
+    "significados": {
+      "passado": "No passado, Pajem de Paus convida a reconhecer experiências ligadas a entusiasmo e boas notícias e exploração. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Pajem de Paus simboliza entusiasmo e boas notícias e exploração. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Pajem de Paus sugere refletir sobre entusiasmo e boas notícias e exploração. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 33,
+    "nome": "Cavaleiro de Paus",
+    "numero": 12,
+    "naipe": "Paus",
+    "palavras_chave": [
+      "impulso e ação direta",
+      "aventura"
+    ],
+    "significados": {
+      "passado": "No passado, Cavaleiro de Paus convida a reconhecer experiências ligadas a impulso e ação direta e aventura. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Cavaleiro de Paus simboliza impulso e ação direta e aventura. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Cavaleiro de Paus sugere refletir sobre impulso e ação direta e aventura. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 34,
+    "nome": "Rainha de Paus",
+    "numero": 13,
+    "naipe": "Paus",
+    "palavras_chave": [
+      "carisma e calor",
+      "determinação acolhedora"
+    ],
+    "significados": {
+      "passado": "No passado, Rainha de Paus convida a reconhecer experiências ligadas a carisma e calor e determinação acolhedora. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Rainha de Paus simboliza carisma e calor e determinação acolhedora. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Rainha de Paus sugere refletir sobre carisma e calor e determinação acolhedora. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 35,
+    "nome": "Rei de Paus",
+    "numero": 14,
+    "naipe": "Paus",
+    "palavras_chave": [
+      "visão empreendedora",
+      "liderança firme"
+    ],
+    "significados": {
+      "passado": "No passado, Rei de Paus convida a reconhecer experiências ligadas a visão empreendedora e liderança firme. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Rei de Paus simboliza visão empreendedora e liderança firme. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Rei de Paus sugere refletir sobre visão empreendedora e liderança firme. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 36,
+    "nome": "As de Copas",
+    "numero": 1,
+    "naipe": "Copas",
+    "palavras_chave": [
+      "emoções que despertam",
+      "abertura do coração"
+    ],
+    "significados": {
+      "passado": "No passado, As de Copas convida a reconhecer experiências ligadas a emoções que despertam e abertura do coração. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, As de Copas simboliza emoções que despertam e abertura do coração. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, As de Copas sugere refletir sobre emoções que despertam e abertura do coração. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 37,
+    "nome": "Dois de Copas",
+    "numero": 2,
+    "naipe": "Copas",
+    "palavras_chave": [
+      "conexão e parceria",
+      "escolhas afetivas"
+    ],
+    "significados": {
+      "passado": "No passado, Dois de Copas convida a reconhecer experiências ligadas a conexão e parceria e escolhas afetivas. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Dois de Copas simboliza conexão e parceria e escolhas afetivas. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Dois de Copas sugere refletir sobre conexão e parceria e escolhas afetivas. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 38,
+    "nome": "Três de Copas",
+    "numero": 3,
+    "naipe": "Copas",
+    "palavras_chave": [
+      "celebração em comunidade",
+      "amizades"
+    ],
+    "significados": {
+      "passado": "No passado, Três de Copas convida a reconhecer experiências ligadas a celebração em comunidade e amizades. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Três de Copas simboliza celebração em comunidade e amizades. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Três de Copas sugere refletir sobre celebração em comunidade e amizades. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 39,
+    "nome": "Quatro de Copas",
+    "numero": 4,
+    "naipe": "Copas",
+    "palavras_chave": [
+      "contemplação",
+      "reavaliar o que se tem"
+    ],
+    "significados": {
+      "passado": "No passado, Quatro de Copas convida a reconhecer experiências ligadas a contemplação e reavaliar o que se tem. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Quatro de Copas simboliza contemplação e reavaliar o que se tem. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Quatro de Copas sugere refletir sobre contemplação e reavaliar o que se tem. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 40,
+    "nome": "Cinco de Copas",
+    "numero": 5,
+    "naipe": "Copas",
+    "palavras_chave": [
+      "perdas e luto",
+      "gratidão pelo que resta"
+    ],
+    "significados": {
+      "passado": "No passado, Cinco de Copas convida a reconhecer experiências ligadas a perdas e luto e gratidão pelo que resta. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Cinco de Copas simboliza perdas e luto e gratidão pelo que resta. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Cinco de Copas sugere refletir sobre perdas e luto e gratidão pelo que resta. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 41,
+    "nome": "Seis de Copas",
+    "numero": 6,
+    "naipe": "Copas",
+    "palavras_chave": [
+      "memória afetiva",
+      "gentileza vinda do passado"
+    ],
+    "significados": {
+      "passado": "No passado, Seis de Copas convida a reconhecer experiências ligadas a memória afetiva e gentileza vinda do passado. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Seis de Copas simboliza memória afetiva e gentileza vinda do passado. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Seis de Copas sugere refletir sobre memória afetiva e gentileza vinda do passado. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 42,
+    "nome": "Sete de Copas",
+    "numero": 7,
+    "naipe": "Copas",
+    "palavras_chave": [
+      "sonhos e fantasia",
+      "avaliar ilusões"
+    ],
+    "significados": {
+      "passado": "No passado, Sete de Copas convida a reconhecer experiências ligadas a sonhos e fantasia e avaliar ilusões. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Sete de Copas simboliza sonhos e fantasia e avaliar ilusões. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Sete de Copas sugere refletir sobre sonhos e fantasia e avaliar ilusões. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 43,
+    "nome": "Oito de Copas",
+    "numero": 8,
+    "naipe": "Copas",
+    "palavras_chave": [
+      "desapego",
+      "busca por profundidade"
+    ],
+    "significados": {
+      "passado": "No passado, Oito de Copas convida a reconhecer experiências ligadas a desapego e busca por profundidade. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Oito de Copas simboliza desapego e busca por profundidade. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Oito de Copas sugere refletir sobre desapego e busca por profundidade. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 44,
+    "nome": "Nove de Copas",
+    "numero": 9,
+    "naipe": "Copas",
+    "palavras_chave": [
+      "desejos atendidos",
+      "bem-estar emocional"
+    ],
+    "significados": {
+      "passado": "No passado, Nove de Copas convida a reconhecer experiências ligadas a desejos atendidos e bem-estar emocional. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Nove de Copas simboliza desejos atendidos e bem-estar emocional. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Nove de Copas sugere refletir sobre desejos atendidos e bem-estar emocional. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 45,
+    "nome": "Dez de Copas",
+    "numero": 10,
+    "naipe": "Copas",
+    "palavras_chave": [
+      "harmonia familiar",
+      "plenitude afetiva"
+    ],
+    "significados": {
+      "passado": "No passado, Dez de Copas convida a reconhecer experiências ligadas a harmonia familiar e plenitude afetiva. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Dez de Copas simboliza harmonia familiar e plenitude afetiva. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Dez de Copas sugere refletir sobre harmonia familiar e plenitude afetiva. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 46,
+    "nome": "Pajem de Copas",
+    "numero": 11,
+    "naipe": "Copas",
+    "palavras_chave": [
+      "mensagens do coração",
+      "curiosidade sentimental"
+    ],
+    "significados": {
+      "passado": "No passado, Pajem de Copas convida a reconhecer experiências ligadas a mensagens do coração e curiosidade sentimental. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Pajem de Copas simboliza mensagens do coração e curiosidade sentimental. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Pajem de Copas sugere refletir sobre mensagens do coração e curiosidade sentimental. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 47,
+    "nome": "Cavaleiro de Copas",
+    "numero": 12,
+    "naipe": "Copas",
+    "palavras_chave": [
+      "romance e ideais",
+      "convites que emocionam"
+    ],
+    "significados": {
+      "passado": "No passado, Cavaleiro de Copas convida a reconhecer experiências ligadas a romance e ideais e convites que emocionam. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Cavaleiro de Copas simboliza romance e ideais e convites que emocionam. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Cavaleiro de Copas sugere refletir sobre romance e ideais e convites que emocionam. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 48,
+    "nome": "Rainha de Copas",
+    "numero": 13,
+    "naipe": "Copas",
+    "palavras_chave": [
+      "empatia e intuição",
+      "acolhimento"
+    ],
+    "significados": {
+      "passado": "No passado, Rainha de Copas convida a reconhecer experiências ligadas a empatia e intuição e acolhimento. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Rainha de Copas simboliza empatia e intuição e acolhimento. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Rainha de Copas sugere refletir sobre empatia e intuição e acolhimento. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 49,
+    "nome": "Rei de Copas",
+    "numero": 14,
+    "naipe": "Copas",
+    "palavras_chave": [
+      "maturidade emocional",
+      "calma e diplomacia"
+    ],
+    "significados": {
+      "passado": "No passado, Rei de Copas convida a reconhecer experiências ligadas a maturidade emocional e calma e diplomacia. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Rei de Copas simboliza maturidade emocional e calma e diplomacia. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Rei de Copas sugere refletir sobre maturidade emocional e calma e diplomacia. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 50,
+    "nome": "As de Espadas",
+    "numero": 1,
+    "naipe": "Espadas",
+    "palavras_chave": [
+      "clareza mental",
+      "novo foco"
+    ],
+    "significados": {
+      "passado": "No passado, As de Espadas convida a reconhecer experiências ligadas a clareza mental e novo foco. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, As de Espadas simboliza clareza mental e novo foco. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, As de Espadas sugere refletir sobre clareza mental e novo foco. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 51,
+    "nome": "Dois de Espadas",
+    "numero": 2,
+    "naipe": "Espadas",
+    "palavras_chave": [
+      "escolhas difíceis",
+      "impasse"
+    ],
+    "significados": {
+      "passado": "No passado, Dois de Espadas convida a reconhecer experiências ligadas a escolhas difíceis e impasse. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Dois de Espadas simboliza escolhas difíceis e impasse. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Dois de Espadas sugere refletir sobre escolhas difíceis e impasse. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 52,
+    "nome": "Três de Espadas",
+    "numero": 3,
+    "naipe": "Espadas",
+    "palavras_chave": [
+      "desilusões",
+      "a verdade que dói"
+    ],
+    "significados": {
+      "passado": "No passado, Três de Espadas convida a reconhecer experiências ligadas a desilusões e a verdade que dói. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Três de Espadas simboliza desilusões e a verdade que dói. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Três de Espadas sugere refletir sobre desilusões e a verdade que dói. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 53,
+    "nome": "Quatro de Espadas",
+    "numero": 4,
+    "naipe": "Espadas",
+    "palavras_chave": [
+      "descanso",
+      "recuperação"
+    ],
+    "significados": {
+      "passado": "No passado, Quatro de Espadas convida a reconhecer experiências ligadas a descanso e recuperação. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Quatro de Espadas simboliza descanso e recuperação. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Quatro de Espadas sugere refletir sobre descanso e recuperação. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 54,
+    "nome": "Cinco de Espadas",
+    "numero": 5,
+    "naipe": "Espadas",
+    "palavras_chave": [
+      "conflitos",
+      "vitórias com custo"
+    ],
+    "significados": {
+      "passado": "No passado, Cinco de Espadas convida a reconhecer experiências ligadas a conflitos e vitórias com custo. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Cinco de Espadas simboliza conflitos e vitórias com custo. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Cinco de Espadas sugere refletir sobre conflitos e vitórias com custo. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 55,
+    "nome": "Seis de Espadas",
+    "numero": 6,
+    "naipe": "Espadas",
+    "palavras_chave": [
+      "mudança para águas mais calmas",
+      "deixar dificuldades para trás"
+    ],
+    "significados": {
+      "passado": "No passado, Seis de Espadas convida a reconhecer experiências ligadas a mudança para águas mais calmas e deixar dificuldades para trás. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Seis de Espadas simboliza mudança para águas mais calmas e deixar dificuldades para trás. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Seis de Espadas sugere refletir sobre mudança para águas mais calmas e deixar dificuldades para trás. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 56,
+    "nome": "Sete de Espadas",
+    "numero": 7,
+    "naipe": "Espadas",
+    "palavras_chave": [
+      "estratégias e segredos",
+      "ação discreta"
+    ],
+    "significados": {
+      "passado": "No passado, Sete de Espadas convida a reconhecer experiências ligadas a estratégias e segredos e ação discreta. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Sete de Espadas simboliza estratégias e segredos e ação discreta. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Sete de Espadas sugere refletir sobre estratégias e segredos e ação discreta. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 57,
+    "nome": "Oito de Espadas",
+    "numero": 8,
+    "naipe": "Espadas",
+    "palavras_chave": [
+      "medos que aprisionam",
+      "limites que você mesmo impõe"
+    ],
+    "significados": {
+      "passado": "No passado, Oito de Espadas convida a reconhecer experiências ligadas a medos que aprisionam e limites que você mesmo impõe. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Oito de Espadas simboliza medos que aprisionam e limites que você mesmo impõe. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Oito de Espadas sugere refletir sobre medos que aprisionam e limites que você mesmo impõe. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 58,
+    "nome": "Nove de Espadas",
+    "numero": 9,
+    "naipe": "Espadas",
+    "palavras_chave": [
+      "preocupações e insônia",
+      "ansiedade"
+    ],
+    "significados": {
+      "passado": "No passado, Nove de Espadas convida a reconhecer experiências ligadas a preocupações e insônia e ansiedade. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Nove de Espadas simboliza preocupações e insônia e ansiedade. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Nove de Espadas sugere refletir sobre preocupações e insônia e ansiedade. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 59,
+    "nome": "Dez de Espadas",
+    "numero": 10,
+    "naipe": "Espadas",
+    "palavras_chave": [
+      "fim de um ciclo pesado",
+      "chão firme após a queda"
+    ],
+    "significados": {
+      "passado": "No passado, Dez de Espadas convida a reconhecer experiências ligadas a fim de um ciclo pesado e chão firme após a queda. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Dez de Espadas simboliza fim de um ciclo pesado e chão firme após a queda. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Dez de Espadas sugere refletir sobre fim de um ciclo pesado e chão firme após a queda. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 60,
+    "nome": "Pajem de Espadas",
+    "numero": 11,
+    "naipe": "Espadas",
+    "palavras_chave": [
+      "observação e vigília",
+      "curiosidade intelectual"
+    ],
+    "significados": {
+      "passado": "No passado, Pajem de Espadas convida a reconhecer experiências ligadas a observação e vigília e curiosidade intelectual. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Pajem de Espadas simboliza observação e vigília e curiosidade intelectual. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Pajem de Espadas sugere refletir sobre observação e vigília e curiosidade intelectual. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 61,
+    "nome": "Cavaleiro de Espadas",
+    "numero": 12,
+    "naipe": "Espadas",
+    "palavras_chave": [
+      "assertividade",
+      "direção firme"
+    ],
+    "significados": {
+      "passado": "No passado, Cavaleiro de Espadas convida a reconhecer experiências ligadas a assertividade e direção firme. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Cavaleiro de Espadas simboliza assertividade e direção firme. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Cavaleiro de Espadas sugere refletir sobre assertividade e direção firme. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 62,
+    "nome": "Rainha de Espadas",
+    "numero": 13,
+    "naipe": "Espadas",
+    "palavras_chave": [
+      "independência",
+      "julgamento honesto"
+    ],
+    "significados": {
+      "passado": "No passado, Rainha de Espadas convida a reconhecer experiências ligadas a independência e julgamento honesto. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Rainha de Espadas simboliza independência e julgamento honesto. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Rainha de Espadas sugere refletir sobre independência e julgamento honesto. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 63,
+    "nome": "Rei de Espadas",
+    "numero": 14,
+    "naipe": "Espadas",
+    "palavras_chave": [
+      "autoridade e justiça",
+      "decisões racionais"
+    ],
+    "significados": {
+      "passado": "No passado, Rei de Espadas convida a reconhecer experiências ligadas a autoridade e justiça e decisões racionais. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Rei de Espadas simboliza autoridade e justiça e decisões racionais. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Rei de Espadas sugere refletir sobre autoridade e justiça e decisões racionais. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 64,
+    "nome": "As de Ouros",
+    "numero": 1,
+    "naipe": "Ouros",
+    "palavras_chave": [
+      "oportunidade concreta",
+      "semente de prosperidade"
+    ],
+    "significados": {
+      "passado": "No passado, As de Ouros convida a reconhecer experiências ligadas a oportunidade concreta e semente de prosperidade. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, As de Ouros simboliza oportunidade concreta e semente de prosperidade. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, As de Ouros sugere refletir sobre oportunidade concreta e semente de prosperidade. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 65,
+    "nome": "Dois de Ouros",
+    "numero": 2,
+    "naipe": "Ouros",
+    "palavras_chave": [
+      "equilíbrio de prioridades",
+      "malabarismos da vida"
+    ],
+    "significados": {
+      "passado": "No passado, Dois de Ouros convida a reconhecer experiências ligadas a equilíbrio de prioridades e malabarismos da vida. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Dois de Ouros simboliza equilíbrio de prioridades e malabarismos da vida. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Dois de Ouros sugere refletir sobre equilíbrio de prioridades e malabarismos da vida. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 66,
+    "nome": "Três de Ouros",
+    "numero": 3,
+    "naipe": "Ouros",
+    "palavras_chave": [
+      "trabalho em equipe",
+      "esforço reconhecido"
+    ],
+    "significados": {
+      "passado": "No passado, Três de Ouros convida a reconhecer experiências ligadas a trabalho em equipe e esforço reconhecido. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Três de Ouros simboliza trabalho em equipe e esforço reconhecido. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Três de Ouros sugere refletir sobre trabalho em equipe e esforço reconhecido. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 67,
+    "nome": "Quatro de Ouros",
+    "numero": 4,
+    "naipe": "Ouros",
+    "palavras_chave": [
+      "segurança material",
+      "apegos que protegem"
+    ],
+    "significados": {
+      "passado": "No passado, Quatro de Ouros convida a reconhecer experiências ligadas a segurança material e apegos que protegem. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Quatro de Ouros simboliza segurança material e apegos que protegem. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Quatro de Ouros sugere refletir sobre segurança material e apegos que protegem. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 68,
+    "nome": "Cinco de Ouros",
+    "numero": 5,
+    "naipe": "Ouros",
+    "palavras_chave": [
+      "escassez",
+      "sensação de exclusão"
+    ],
+    "significados": {
+      "passado": "No passado, Cinco de Ouros convida a reconhecer experiências ligadas a escassez e sensação de exclusão. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Cinco de Ouros simboliza escassez e sensação de exclusão. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Cinco de Ouros sugere refletir sobre escassez e sensação de exclusão. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 69,
+    "nome": "Seis de Ouros",
+    "numero": 6,
+    "naipe": "Ouros",
+    "palavras_chave": [
+      "generosidade",
+      "circulação de recursos"
+    ],
+    "significados": {
+      "passado": "No passado, Seis de Ouros convida a reconhecer experiências ligadas a generosidade e circulação de recursos. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Seis de Ouros simboliza generosidade e circulação de recursos. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Seis de Ouros sugere refletir sobre generosidade e circulação de recursos. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 70,
+    "nome": "Sete de Ouros",
+    "numero": 7,
+    "naipe": "Ouros",
+    "palavras_chave": [
+      "paciência",
+      "colher o que se plantou"
+    ],
+    "significados": {
+      "passado": "No passado, Sete de Ouros convida a reconhecer experiências ligadas a paciência e colher o que se plantou. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Sete de Ouros simboliza paciência e colher o que se plantou. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Sete de Ouros sugere refletir sobre paciência e colher o que se plantou. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 71,
+    "nome": "Oito de Ouros",
+    "numero": 8,
+    "naipe": "Ouros",
+    "palavras_chave": [
+      "dedicação ao ofício",
+      "melhorar passo a passo"
+    ],
+    "significados": {
+      "passado": "No passado, Oito de Ouros convida a reconhecer experiências ligadas a dedicação ao ofício e melhorar passo a passo. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Oito de Ouros simboliza dedicação ao ofício e melhorar passo a passo. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Oito de Ouros sugere refletir sobre dedicação ao ofício e melhorar passo a passo. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 72,
+    "nome": "Nove de Ouros",
+    "numero": 9,
+    "naipe": "Ouros",
+    "palavras_chave": [
+      "autonomia",
+      "frutos do próprio esforço"
+    ],
+    "significados": {
+      "passado": "No passado, Nove de Ouros convida a reconhecer experiências ligadas a autonomia e frutos do próprio esforço. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Nove de Ouros simboliza autonomia e frutos do próprio esforço. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Nove de Ouros sugere refletir sobre autonomia e frutos do próprio esforço. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 73,
+    "nome": "Dez de Ouros",
+    "numero": 10,
+    "naipe": "Ouros",
+    "palavras_chave": [
+      "legado",
+      "abundância compartilhada"
+    ],
+    "significados": {
+      "passado": "No passado, Dez de Ouros convida a reconhecer experiências ligadas a legado e abundância compartilhada. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Dez de Ouros simboliza legado e abundância compartilhada. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Dez de Ouros sugere refletir sobre legado e abundância compartilhada. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 74,
+    "nome": "Pajem de Ouros",
+    "numero": 11,
+    "naipe": "Ouros",
+    "palavras_chave": [
+      "aprendizado prático",
+      "estudar antes de agir"
+    ],
+    "significados": {
+      "passado": "No passado, Pajem de Ouros convida a reconhecer experiências ligadas a aprendizado prático e estudar antes de agir. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Pajem de Ouros simboliza aprendizado prático e estudar antes de agir. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Pajem de Ouros sugere refletir sobre aprendizado prático e estudar antes de agir. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 75,
+    "nome": "Cavaleiro de Ouros",
+    "numero": 12,
+    "naipe": "Ouros",
+    "palavras_chave": [
+      "método e confiabilidade",
+      "rotinas que funcionam"
+    ],
+    "significados": {
+      "passado": "No passado, Cavaleiro de Ouros convida a reconhecer experiências ligadas a método e confiabilidade e rotinas que funcionam. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Cavaleiro de Ouros simboliza método e confiabilidade e rotinas que funcionam. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Cavaleiro de Ouros sugere refletir sobre método e confiabilidade e rotinas que funcionam. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 76,
+    "nome": "Rainha de Ouros",
+    "numero": 13,
+    "naipe": "Ouros",
+    "palavras_chave": [
+      "praticidade",
+      "gestão com bondade"
+    ],
+    "significados": {
+      "passado": "No passado, Rainha de Ouros convida a reconhecer experiências ligadas a praticidade e gestão com bondade. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Rainha de Ouros simboliza praticidade e gestão com bondade. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Rainha de Ouros sugere refletir sobre praticidade e gestão com bondade. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  },
+  {
+    "id": 77,
+    "nome": "Rei de Ouros",
+    "numero": 14,
+    "naipe": "Ouros",
+    "palavras_chave": [
+      "estabilidade",
+      "prosperidade conquistada"
+    ],
+    "significados": {
+      "passado": "No passado, Rei de Ouros convida a reconhecer experiências ligadas a estabilidade e prosperidade conquistada. Reflita sobre como esses temas influenciaram sua trajetória.",
+      "presente": "No presente, Rei de Ouros simboliza estabilidade e prosperidade conquistada. Observe de que modo esses aspectos aparecem em suas escolhas atuais.",
+      "futuro": "Como possibilidade futura, Rei de Ouros sugere refletir sobre estabilidade e prosperidade conquistada. Não é uma previsão: considere quais atitudes podem favorecer seu caminho."
+    }
+  }
+]

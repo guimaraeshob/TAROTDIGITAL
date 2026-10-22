@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: tarot-digital
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app -b 0.0.0.0:$PORT
+    envVars:
+      - key: SECRET_KEY
+        generateValue: true
+      - key: PYTHON_VERSION
+        value: "3.12.6"
+    # Sem LLM_* por decisão: a leitura sai pelo motor de regras; para ativar IA,
+    # adicione LLM_API_KEY / LLM_BASE_URL / LLM_MODEL no painel do Render depois.

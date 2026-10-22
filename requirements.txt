@@ -1,0 +1,3 @@
+Flask>=3.0,<4.0
+# Servidor WSGI para deploy em Unix; no Windows local é ignorado pelo marcador.
+gunicorn>=21,<25 ; sys_platform != "win32"
